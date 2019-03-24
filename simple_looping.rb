@@ -41,4 +41,3 @@ def for_iterator(number_of_times)
     c-=1
   end
 end
-© 2019 GitHub, Inc.
