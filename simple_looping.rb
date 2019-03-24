@@ -28,7 +28,7 @@ def until_iterator(number_of_times)
   # code your solution here using the "until" keyword
   b=7
   until b == 0
-    puts "Hello Ruby-007!"
+    puts "Welcome to Flatiron School's Web Development Course!"
     b-=1
   end
 end
