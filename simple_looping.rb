@@ -36,7 +36,8 @@ end
 def for_iterator(number_of_times)
   # code your solution here using the "for" keyword
   c=7
-  for c in 1..7 do
+  cord= 1..7
+  for c in cord do
     puts "Welcome to Flatiron School's Web Development Course!"
     c-=1
   end
