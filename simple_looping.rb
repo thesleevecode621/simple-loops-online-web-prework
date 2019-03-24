@@ -19,7 +19,7 @@ def while_iterator(number_of_times)
   # code your solution here using the "while" keyword
   a=0
   while a < 7
-    puts "Hello Ruby-007!"
+    puts "Welcome to Flatiron School's Web Development Course!"
     a+=1
   end
 end
